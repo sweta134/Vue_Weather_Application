@@ -23,3 +23,7 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Vue_Weather_Application
+
+
+Credits : https://www.youtube.com/watch?v=JLc-hWsPTUY
+Weather API Created using: https://home.openweathermap.org/ (Signup is free)
